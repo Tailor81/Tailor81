@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AOBAKWE MPATANE (Tailor81)
+# 👋 Hi, I'm AOBAKWE MPATANE 
 
 **Business Intelligence & Data Analytics Student | Full-Stack Developer | Financial Technology Builder**
 
