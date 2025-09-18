@@ -107,7 +107,7 @@ I'm always open to discussing new opportunities, collaborations, or just connect
 
 ### 💭 *"The best way to predict the future is to build it."*
 
-**Currently based in Gaborone, Botswana** 🇧🇼
+**Currently based in Francistown, Botswana** 🇧🇼
 
 ---
 
