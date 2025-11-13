@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AOBAKWE MPATANE 
 
-**Business Intelligence & Data Analytics Student | Full-Stack Developer | Financial Technology Builder**
+**Business Intelligence & Data Analytics Graduate | Full-Stack Developer | Financial Technology Builder**
 
 > *"Building practical solutions that solve real problems, one line of code at a time."*
 
