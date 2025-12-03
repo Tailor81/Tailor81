@@ -67,7 +67,7 @@ Custom CMS solution built for private client with complete user record managemen
 - 🔐 Built secure administrative interface
 - 💼 Complete user record management system
 
-**Tech Stack:** PHP, HTML/CSS, MySQL
+**Tech Stack:** Codeigniter(PHP), HTML/CSS, MySQL
 
 ---
 
