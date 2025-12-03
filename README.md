@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AOBAKWE MPATANE 
 
-**Business Intelligence & Data Analytics Graduate | Full-Stack Developer | Financial Technology Builder**
+**Business Intelligence & Data Analytics Graduate | Full-Stack Developer | Orange Summer Challenge 2025 Winner**
 
 > *"Building practical solutions that solve real problems, one line of code at a time."*
 
